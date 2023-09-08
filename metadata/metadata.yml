@@ -1,0 +1,18 @@
+metadata_version: 1
+name: On Spectral Efficiency for Multiuser MISO Systems under Imperfect Channel Information
+description: Simulation code for "On Spectral Efficiency for Multiuser MISO Systems
+  under Imperfect Channel Information," by Quang-Doanh Vu, Le-Nam Tran, and Markku
+  Juntti, IEEE Trans. Vehicular Technology, vol. 70. no. 2, pp. 1946-1951, Feb. 2021.
+authors:
+- name: Quang-Doanh Vu
+  affiliations:
+  - name: University of Oulu
+- name: Le-Nam Tran
+  affiliations:
+  - name: University College Dublin
+- name: Markku Juntti
+  affiliations:
+  - name: University of Oulu
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie
